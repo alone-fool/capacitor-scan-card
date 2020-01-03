@@ -1,0 +1,1 @@
+# capacitor-scan-card
